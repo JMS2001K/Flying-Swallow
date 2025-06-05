@@ -13,6 +13,7 @@
 - Language: C#
 
 ## 📷 스크린샷
+![screenshot](images/비연 포스터.png)
 ![screenshot](images/screenshot_00.png)
 ![screenshot](images/screenshot_01.png)
 ![screenshot](images/screenshot_02.png)
